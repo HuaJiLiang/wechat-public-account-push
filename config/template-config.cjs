@@ -2,9 +2,9 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的宝, 早上好！',
+    title: '亲爱的宝, 早上好！😙',
     desc: `
-      日期：**{{date.DATA}}**
+      📃日期：**{{date.DATA}}**
       
       下个休息日：{{holidaytts.DATA}}
       
